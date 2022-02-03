@@ -1,0 +1,460 @@
+
+@media (min-width: 279px) and (max-width: 319px){
+/* responsive code start */
+.banner {
+    width: 100%;
+    padding: 9px 0px;
+    text-align: center;
+}
+.banner h1 {
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 31px;
+    margin: 0px 0px 5px;
+}
+.banner p {
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 15px;
+    margin: 0px;
+}
+
+img, svg {
+    vertical-align: middle;
+    margin-top: 17px;
+}
+.feature {
+   width: 100%;
+   padding: 26px 0px;
+}
+.inner-feature {
+   width: 100%;
+   padding: 53px;
+   text-align: center;
+   margin-bottom: 18px;
+}
+.inner-feature {
+   width: 100%;
+   padding: 7px 0px;
+   text-align: center;
+   margin-bottom: 18px;
+   padding-top: 30px;
+}
+.inner-feature img {
+   width: 78px;
+   height: 88px;
+   margin: 0px 0px 12px;
+}
+.courses {
+   width: 100%;
+   padding: 0px 0px;
+}
+.feature {
+   width: 100%;
+   padding: 0px 0px;
+}
+.courses h2 {
+   font-size: 19px;
+   font-weight: 600;
+   line-height: 33px;
+   margin: 0px 0px 18px;
+   text-align: center;
+}
+.courses .card .card-body h5 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  margin: 0px 15px;
+  margin: 0px;
+}
+.courses .card .card-body .btn-success {
+  padding: 10px 25px;
+  border-radius: 35px;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 10px 0px 0px;
+  border: 1px solid #21B573;
+}
+.courses .card .card-body .desc {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  margin: 20px 0px 0px;
+}
+.testmonial h2 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 18px;
+  margin: 0px 0px 0px;
+  text-align: center;
+}
+.testmonial {
+  width: 100%;
+  padding: 0px 0px;
+}
+.testmonial p {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: center;
+}
+.testmonial .img-round {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  margin-bottom: 14px;
+}
+.footer {
+  width: 100%;
+  padding: 0px 0px 30px;
+ color: #909;
+}
+.footer-widget p {
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: center;
+}
+.footer-widget h6 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  margin: 0px 0px 5px;
+  text-align: center;
+}
+.footer-widget ul li a {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  margin: 0px 0px 5px;
+  text-align: center;
+  text-decoration: none;
+}
+.footer-widget {
+  width: 100%;
+  padding: 0px 0px 0px;
+}
+}
+/* responsive code start */
+@media (min-width: 320px) and (max-width: 480px){
+/* responsive code start */
+.banner {
+  width: 100%;
+  padding: 0px 0px;
+}
+.banner h5 {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+}
+.banner h1 {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: center;
+  margin: 0px;
+}
+.banner p {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: center;
+  margin-top: 10px;
+}
+.banner .btn-success {
+  padding: 6px 13px;
+  border-radius: 35px;
+  font-size: 16px;
+  font-weight: 600;
+  margin: -7px 0px 0px;
+}
+.feature {
+  width: 100%;
+  padding: 20px 0px;
+}
+.inner-feature {
+  width: 100%;
+  padding: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.courses {
+  width: 100%;
+  padding: 0px 0px;
+}
+.feature {
+  width: 100%;
+  padding: 0px 0px;
+}
+.courses h2 {
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 21px;
+  margin: 0px 0px 19px;
+  text-align: center;
+}
+.courses .card .card-body .desc {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26px;
+  margin: 4px 0px 0px;
+}
+.testmonial{
+  width: 100%;
+  padding: 0px 0px;
+}
+.testmonial h2 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 25px;
+  margin: 0px 0px 18px;
+  text-align: center;
+}
+.testmonial p {
+  font-size: 9px;
+  font-weight: 400;
+  line-height: 15px;
+}
+.footer {
+  width: 100%;
+  padding: 0px 0px 0px;
+}
+.footer-widget p {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: center;
+}
+.footer-widget h6 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  margin: 0px 0px 0px;
+  text-align: center;
+}
+.footer-widget ul li a {
+  display: block;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  margin: 0px 0px 5px;
+  text-align: center;
+  list-style: none;
+}
+.footer-widget{
+  width: 100%;
+  padding: 0px 0px 0px;
+}
+
+}
+/* responsive code end */
+@media (min-width: 481px) and (max-width: 767px) {
+  /* responsive code start */
+.banner {
+  width: 100%;
+  padding: 0px 0px;
+  text-align: center;
+}
+.banner h5 {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+}
+.banner h1 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 22px;
+  margin: 0px 0px 0px;
+}
+.banner p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  margin-top: 5px;
+  margin-bottom: 0px
+}
+.feature {
+  width: 100%;
+  padding: 0px 0px;
+}
+.inner-feature {
+  width: 100%;
+  padding: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.inner-feature {
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.courses {
+  width: 100%;
+  padding: 0px 0px;
+}
+.courses h2 {
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 22px;
+  margin: 0px 0px 21px;
+  text-align: center;
+}
+.courses .card .card-body h5 {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  color: #413960;
+  margin: 0px 15px;
+  margin: 0px;
+}
+.courses .card .card-body .btn-success {
+  padding: 10px 25px;
+  border-radius: 35px;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 10px 0px 0px;
+}
+.courses .card .card-body {
+  padding: 7px 0px;
+}
+.testmonial {
+  width: 100%;
+  padding: 0px 0px;
+}
+.testmonial h2 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 21px;
+  margin: 0px 0px 20px;
+  text-align: center;
+}
+.testmonial p {
+  font-size: 9px;
+  font-weight: 400;
+  line-height: 14px;
+  text-align: center;
+  margin: 8px 0px;
+}
+.footer {
+  width: 100%;
+  padding: 0px 0px 12px;
+  text-align: center;
+}
+.footer-widget p {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+}
+.footer-widget ul li a {
+  display: block;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  margin: 0px 0px 0px;
+}
+.footer-widget {
+  width: 100%;
+  padding: 0px 0px 0px;
+} 
+}
+/* responsive code end */
+@media (min-width: 768px) and (max-width: 992px) {
+/* responsive code start */
+.banner {
+  width: 100%;
+  padding: 0px 0px;
+  text-align: center;
+}
+.banner h5 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 11px;
+}
+.banner h1 {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 24px;
+  margin: 0px 0px 0px;
+}
+.banner p {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 13px;
+}
+.banner .btn-success {
+  padding: 5px 25px;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 5px 0px 6px;
+}
+.feature {
+  width: 100%;
+  padding: 0px 0px;
+}
+.inner-feature {
+  width: 100%;
+  padding: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.courses {
+  width: 100%;
+  padding: 0px 0px;
+}
+.courses h2 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 10px;
+  margin: 0px 0px 23px;
+  text-align: center;
+}
+.courses .card .card-body .btn-success {
+  padding: 3px 15px;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 10px 0px -10px;
+}
+.testmonial {
+  width: 100%;
+  padding: 0px 0px;
+}
+.testmonial h2 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 10px;
+  margin: 0px 0px 15px;
+  text-align: center;
+}
+.testmonial p {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: center;
+}
+.testmonial p {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: center;
+  margin: 0px 0px 5px;
+}
+.footer {
+  width: 100%;
+  padding: 0px 0px 0px;
+  text-align: center;
+
+}
+.footer-widget p {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 17px;
+  margin-top: 13px;
+}
+.footer-widget {
+  width: 100%;
+  padding: 0px 0px 0px;
+} 
+}
+/* responsive code end */
